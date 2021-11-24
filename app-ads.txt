@@ -8,3 +8,5 @@ pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
 pubnative.net, 1007170, RESELLER, d641df8625486a7b
 Verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8f
+mopub.com, 5f44c8909f6e41ca9d4ff22f3d574707, DIRECT, 74b46c0ea83967ca
+rubiconproject.com, 21648, RESELLER, 0bfd66d529a55807
